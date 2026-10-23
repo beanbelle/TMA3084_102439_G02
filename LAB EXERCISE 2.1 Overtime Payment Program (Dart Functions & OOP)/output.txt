@@ -1,0 +1,2 @@
+PS C:\Users\user\Documents\GitHub\TMA3084_102439_G02\LAB EXERCISE 2.1 Overtime Payment Program (Dart Functions & OOP)> dart run main.dart
+Total Salary = $5070.0 USD
