@@ -8,7 +8,7 @@ class Lab05 extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.deepOrange,
+          backgroundColor: const Color.fromARGB(255, 255, 164, 151),
           title: const Text(
             'Freddy Fazbear Pizza',
             style: TextStyle(color: Colors.white, fontFamily: 'Pacifico'),
@@ -17,7 +17,7 @@ class Lab05 extends StatelessWidget {
         body: Column(
           children: <Widget>[
             Card(
-              color: Colors.orange,
+              color: const Color.fromARGB(255, 255, 157, 242),
               elevation: 5,
               child: Padding(
                 padding: EdgeInsets.all(10),
@@ -51,7 +51,7 @@ class Lab05 extends StatelessWidget {
               ),
             ),
             Card(
-              color: Colors.orange,
+              color: const Color.fromARGB(255, 255, 157, 242),color: Colors.orange,
               child: Padding(
                 padding: EdgeInsets.all(10),
                 child: Row(
@@ -82,7 +82,7 @@ class Lab05 extends StatelessWidget {
               ),
             ),
             Card(
-              color: Colors.orange,
+              color: const Color.fromARGB(255, 255, 157, 242),color: Colors.orange,
               child: Padding(
                 padding: EdgeInsets.all(10),
                 child: Row(
