@@ -51,7 +51,7 @@ class Lab05 extends StatelessWidget {
               ),
             ),
             Card(
-              color: const Color.fromARGB(255, 255, 157, 242),color: Colors.orange,
+              color: const Color.fromARGB(255, 255, 157, 242),
               child: Padding(
                 padding: EdgeInsets.all(10),
                 child: Row(
@@ -82,7 +82,7 @@ class Lab05 extends StatelessWidget {
               ),
             ),
             Card(
-              color: const Color.fromARGB(255, 255, 157, 242),color: Colors.orange,
+              color: const Color.fromARGB(255, 255, 157, 242),
               child: Padding(
                 padding: EdgeInsets.all(10),
                 child: Row(
